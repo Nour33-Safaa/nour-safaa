@@ -1,4 +1,4 @@
-# nour-safaa# Nour Safaa
+# Nour Safaa
 
 Étudiante en Big Data & IA | Data Scientist en devenir | Marrakech, Maroc
 
