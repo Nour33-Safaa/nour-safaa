@@ -29,7 +29,7 @@ Je construis des solutions IA concrètes et documentées.
 
 ## Certifications en cours
 
-- IBM Data Science Professional Certificate — Coursera 2025
+- IBM Data Science Professional Certificate — Coursera 2026
 
 ---
 
