@@ -26,6 +26,16 @@ Je construis des solutions IA concrètes et documentées.
 > `Python` `LangChain` `Claude AI` `RAG` `NLP`
 
 ---
+## Certifications obtenues
+
+- Google — Gestion de projet agile (avr. 2026)
+- Coursera — Introduction to Big Data (mars 2026)
+- Duke University — Introduction à l'apprentissage automatique (déc. 2025)
+- IBM — Introduction au Cloud Computing (déc. 2025)
+- IBM — Introduction aux bases de données NoSQL (déc. 2025)
+- LinkedIn — Windows PowerShell 7 (janv. 2025)
+
+---
 
 ## Certifications en cours
 
