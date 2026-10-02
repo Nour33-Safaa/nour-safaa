@@ -15,9 +15,9 @@
 
 | Projet | Ce qu'il fait | Stack |
 |---|---|---|
-| [**Analyse d'opinions e-commerce**](https://github.com/Nour33-Safaa/analyse-avis-ecommerce) · [Démo en ligne](LIEN_STREAMLIT) | +10 000 avis clients, DistilBERT fine-tuné (F1-macro ≥ 0,90), thèmes extraits avec BERTopic, dashboard de recommandations | Python · DistilBERT · BERTopic · Streamlit |
-| [**IA SAV — Chatbot intelligent de service client**](LIEN_REPO_IA_SAV) | Chatbot RAG qui répond aux clients à partir de la documentation, et classe les tickets par catégorie et priorité | Python · LangChain · Claude AI · RAG · NLP |
-| **Matching CV / offres d'emploi**  | Score de compatibilité entre CV et offres Tech/Data | Python · NLP · ML · Streamlit |
+| [**Matching CV / offres d'emploi**](https://github.com/Nour33-Safaa/matching-cv-offres) | Score de compatibilité CV/offre sur 2 484 CV et 2 277 offres, 3 modèles supervisés comparés (XGBoost), explication du score par LLM local, agent LangChain, évaluation DeepEval | Python · Sentence Transformers · XGBoost · LangChain · Streamlit |
+| **Analyse d'opinions e-commerce** *(code bientôt en ligne)* | +10 000 avis clients, DistilBERT fine-tuné (F1-macro ≥ 0,90), thèmes extraits avec BERTopic, dashboard de recommandations | Python · DistilBERT · BERTopic · Streamlit |
+| **IA SAV — Chatbot intelligent de service client** *(code bientôt en ligne)* | Chatbot RAG qui répond aux clients à partir de la documentation, et classe les tickets par catégorie et priorité | Python · LangChain · Claude AI · RAG · NLP |
 
 ## Outils
 
