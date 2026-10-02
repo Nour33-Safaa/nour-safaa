@@ -38,4 +38,4 @@
 
 ## Me contacter
 
-📧 noursafaa323@gmail.com · 💼 [LinkedIn](LIEN_LINKEDIN) · 📍 Marrakech, Maroc · 🌍 Arabe · Français · Anglais
+📧 noursafaa323@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/safaa-nour-24260a254) · 📍 Marrakech, Maroc · 🌍 Arabe · Français · Anglais
